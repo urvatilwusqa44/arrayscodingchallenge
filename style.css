@@ -1,0 +1,12 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 22px;
+    background: aquamarine;
+    height: 100vh;
+    color: blueviolet;
+    font-weight: 400;
+
+}
